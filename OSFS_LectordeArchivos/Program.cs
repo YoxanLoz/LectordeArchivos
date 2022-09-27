@@ -8,6 +8,7 @@ namespace OSFS_LectordeArchivos
 {
     static class Program
     {
+        /// Comentario 2 GitHub :)
         /// Comentario GitHub
         /// <summary>
         /// Punto de entrada principal para la aplicación.
