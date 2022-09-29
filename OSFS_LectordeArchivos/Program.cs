@@ -12,6 +12,7 @@ namespace OSFS_LectordeArchivos
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
+        /// commmit dos
         [STAThread]
         static void Main()
         {
